@@ -27,3 +27,5 @@ In the process we control possible exceptions. In Jupyter notebook we clean data
 
 The reason to implement star schema is the possibility to access data of songs played bygetting the songsplay table and we can get all data referent of this song like artist name, song title, duration for example
 
+![bbdd](bbdd.png)
+
