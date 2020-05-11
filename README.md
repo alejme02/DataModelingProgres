@@ -32,8 +32,8 @@ The reason to implement star schema is the possibility to access data of songs p
 
 ## How to execute
 
-- 1. Run create_tables.py
-- 2. Run etl.py
+- Run create_tables.py
+- Run etl.py
 
 Alternatively you can check if data is correct or debug process more specifically using jupyter notebooks 
 elt.ipynb, test.ipynb
